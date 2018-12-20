@@ -18,3 +18,7 @@
 ```sh
   git pull
 ```
+
+## win 10 : GitLab remote: HTTP Basic: Access denied and fatal Authentication
+- https://stackoverflow.com/a/52742087
+- Go to Control Panel->Credential Manager->Windows Credentials select github or gitlab credentials and modify it. This is for windows10
